@@ -16,13 +16,13 @@ function App() {
     <main>
       <h1>Hello. I am Kenya.</h1>
       <h2>
-        Deployed with{' '}
+        Check out my {' '}
         <a
           href="https://zeit.co/docs"
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+          Projects Now
         </a>
         !
       </h2>
