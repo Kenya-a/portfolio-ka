@@ -16,13 +16,13 @@ function App() {
     <main>
       <h1>Hello. I am Kenya.</h1>
       <h2>
-        Deployed with{' '}
+        Check out my {' '}
         <a
-          href="https://zeit.co/docs"
+          href="https://react-redux-app-9vt9g7w5i.now.sh/"
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+          Projects Now
         </a>
         !
       </h2>
