@@ -18,7 +18,7 @@ function App() {
       <h2>
         Check out my {' '}
         <a
-          href="https://zeit.co/docs"
+          href="https://react-redux-app-9vt9g7w5i.now.sh/"
           target="_blank"
           rel="noreferrer noopener"
         >
